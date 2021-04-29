@@ -121,6 +121,13 @@
   
 </td>
 </tr>
+<tr>
+   <td>29.04</td>
+  <td>Краулинг с помощью BeautifulSoup.</td>
+  <td><ul>
+       <li> <a href="https://github.com/roctbb/pydat21/blob/master/lesson_8">Все материалы</a></li>
+     </ul></td><td></td>
+</tr>
 </table>
 
 ### Что почитать?
